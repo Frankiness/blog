@@ -1,0 +1,5 @@
+{
+  "pasteImage.insertPattern": "![img](./img/${imageFileName})",
+  "pasteImage.path": "${currentFileDir}/img",
+  "compile-hero.disable-compile-files-on-did-save-code": false
+}
