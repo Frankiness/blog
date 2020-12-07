@@ -4,7 +4,7 @@ module.exports = {
   title: "老谭の博客",
   tagline: "帮助你提升前端开发技能",
   titleDelimiter: "-",
-  url: "http://localhost:3000/",  //网站的网址
+  url: "http://laotan-blog.top/",  //网站的网址
   baseUrl: "/",
   favicon: "/static/img/avatar.jpg",
   organizationName: "Frankiness", // Usually your GitHub org/user name.
