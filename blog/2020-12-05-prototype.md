@@ -3,8 +3,8 @@ slug: prototype
 title: JavaScript的继承
 author: 老谭
 author_title: 前端工程师
-author_url: https://github.com/ Frankiness
-author_image_url: ../static/img/avatar.jpg
+author_url: https://github.com/Frankiness
+author_image_url: https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/b2745d44ly8g8s4muqeggj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1582389585&ssig=EvXmyu%2FXsX
 description: 手写JavaScript的几种继承方式
 tags: [前端, JavaScript]
 ---

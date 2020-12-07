@@ -23,4 +23,4 @@
 //   }, []);
 //   return views;
 // }
-"use strict";
+// "use strict";
