@@ -12,7 +12,7 @@ module.exports = {
   favicon: "img/avatar.jpg",
   organizationName: "Frankiness",
   // Usually your GitHub org/user name.
-  projectName: "laotan-blog.top",
+  projectName: "blog",
   // Usually your repo name.
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
   themeConfig: {
