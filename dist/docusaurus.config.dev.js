@@ -6,7 +6,7 @@ module.exports = {
   title: "老谭の博客",
   tagline: "帮助你提升前端开发技能",
   titleDelimiter: "-",
-  url: "http://laotan-blog.top",
+  url: "https://www.zxuqian.cn",
   //网站的网址
   baseUrl: "/",
   favicon: "img/avatar.jpg",
