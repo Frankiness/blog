@@ -6,12 +6,13 @@ module.exports = {
   title: "老谭の博客",
   tagline: "帮助你提升前端开发技能",
   titleDelimiter: "-",
-  url: "https://www.zxuqian.cn",
+  url: "http://localhost:3000/",
+  //网站的网址
   baseUrl: "/",
-  favicon: "img/favicon.ico",
-  organizationName: "zxuqian",
+  favicon: "/static/img/avatar.jpg",
+  organizationName: "Frankiness",
   // Usually your GitHub org/user name.
-  projectName: "zxuqian.cn",
+  projectName: "laotan-blog.top",
   // Usually your repo name.
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
   themeConfig: {
@@ -19,8 +20,8 @@ module.exports = {
       title: "老谭",
       logo: {
         alt: "老谭",
-        src: "img/logo.png",
-        srcDark: "img/logo.png"
+        src: "/static/img/avatar.jpg",
+        srcDark: "/static/img/avatar.jpg"
       },
       items: [{
         to: "/",
@@ -67,7 +68,7 @@ module.exports = {
   presets: [["@docusaurus/preset-classic", {
     docs: {
       sidebarPath: require.resolve("./sidebars.js"),
-      editUrl: "https://github.com/zxuqian/zxuqian.cn/tree/master/docs"
+      editUrl: "https://github.com/Frankiness/blog/tree/master/docs"
     },
     blog: {
       path: "./blog",

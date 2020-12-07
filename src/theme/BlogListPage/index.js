@@ -78,7 +78,7 @@ function BlogListPage(props) {
             Hello! 我是<span className="intro__name">老谭</span>
           </animated.h1>
           <animated.p style={animatedTexts[1]}>
-            致力于将编程和艺术相结合，以直观、生动、有趣的方式呈现枯燥的编程概念和原理，助你以最快的速度、愉快的心情掌握编程技巧，进而提升工作竞争力和创新创业能力。
+            致力于将编程和艺术相结合，创造出更有趣的东西。
           </animated.p>
           <animated.div style={animatedTexts[2]}>
             {/* <a
