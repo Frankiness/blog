@@ -6,10 +6,10 @@ module.exports = {
   title: "老谭の博客",
   tagline: "帮助你提升前端开发技能",
   titleDelimiter: "-",
-  url: "http://laotan-blog.top",
+  url: "http://localhost:3000",
   //网站的网址
   baseUrl: "/",
-  favicon: "/static/img/avatar.jpg",
+  favicon: "img/avatar.jpg",
   organizationName: "Frankiness",
   // Usually your GitHub org/user name.
   projectName: "laotan-blog.top",
@@ -20,8 +20,8 @@ module.exports = {
       title: "老谭",
       logo: {
         alt: "老谭",
-        src: "/static/img/avatar.jpg",
-        srcDark: "/static/img/avatar.jpg"
+        src: "img/avatar.jpg",
+        srcDark: "img/avatar.jpg"
       },
       items: [{
         to: "/",
