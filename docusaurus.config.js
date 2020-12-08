@@ -101,7 +101,7 @@ module.exports = {
         },
         blog: {
           path: "./blog",
-          routeBasePath: "/",
+          // routeBasePath: "/",
           feedOptions: {
             type: "all",
             title: "老谭",
